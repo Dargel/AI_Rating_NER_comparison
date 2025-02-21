@@ -1,7 +1,8 @@
 # AI_Rating_NER_comparison
 Let's find out which companies have more articles about AI and compare two methods of brand searching
 
-Это учебный проект в рамках курса "Компьютерная лингвистика" НИУ ВШЭ ДПО.
+Это учебный проект "Сравнение методов поиска именованных сущностей на примере рейтинга компаний по количеству публикаций на тему искусственного интеллекта"
+
 
 ЦЕЛИ ПРОЕКТА
 
