@@ -3,6 +3,14 @@ Let's find out which companies have more articles about AI and compare two metho
 
 Это учебный проект "Сравнение методов поиска именованных сущностей на примере рейтинга компаний по количеству публикаций на тему искусственного интеллекта"
 
+Код работает в Colab и доступен по ссылкам:
+
+Часть 1 https://colab.research.google.com/drive/1XmihN5cDUXps7XsxEPCU-w4W0a--cSYA?usp=sharing
+
+Часть 2 https://colab.research.google.com/drive/1PTVbtcy2J9EPyCwGMV9-4JCKa31vjGP8?usp=sharing
+
+Часть 3 https://colab.research.google.com/drive/1GH6HpEKECBMOuIaEimwZOXp2-rxFsgl-?usp=sharing
+
 
 ЦЕЛИ ПРОЕКТА
 
